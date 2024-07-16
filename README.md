@@ -15,7 +15,7 @@ InvestiChain is a user-friendly news research tool designed for effortless infor
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/mihirkudale/InvestiChain-News-Research-Tool-LLM-App-Using-Langchain-OpenAI.git
+  git https://github.com/mihirkudale/InvestiChain.git
 ```
 2.Navigate to the project directory:
 
