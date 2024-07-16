@@ -1,6 +1,6 @@
-# RockyBot-News-Research-Tool-LLM-App-Using-Langchain-OpenAI
+# InvestiChain-News-Research-Tool-LLM-App-Using-Langchain-OpenAI
 
-RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+InvestiChain is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
 ## Features
 
@@ -15,7 +15,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/mihirkudale/RockyBot-News-Research-Tool-LLM-App-Using-Langchain-OpenAI.git
+  git clone https://github.com/mihirkudale/InvestiChain-News-Research-Tool-LLM-App-Using-Langchain-OpenAI.git
 ```
 2.Navigate to the project directory:
 
